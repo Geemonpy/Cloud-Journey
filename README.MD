@@ -16,8 +16,7 @@ This repo tracks everything I learn on the path to becoming a Cloud Engineer —
 
 ## Current status
 
-🚀 Day 3 — Learning Git workflow and Terminal basics.
-push 3
+🚀 Day 3 — Did a time and date porject and pushed to it github
 
 ## Tech stack I'm learning
 
